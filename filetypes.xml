@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="router" type="HTTP Request" />
+      <removed_mapping ext="php" approved="true" type="PHP" />
+      <removed_mapping pattern=".php" approved="true" type="ActionScript" />
+    </extensionMap>
+  </component>
+</application>
