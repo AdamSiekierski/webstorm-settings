@@ -1,6 +1,5 @@
 <application>
   <component name="GeneralSettings">
-    <option name="autoSaveFiles" value="false" />
     <option name="showTipsOnStartup" value="false" />
     <option name="useSafeWrite" value="false" />
   </component>
