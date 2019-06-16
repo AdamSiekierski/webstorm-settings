@@ -4,6 +4,7 @@
       <mapping pattern="fileWatcherTemplate" type="ECMAScript 6" />
       <mapping pattern="router" type="HTTP Request" />
       <mapping pattern="defaultSquareImage.js" type="PLAIN_TEXT" />
+      <mapping pattern="HeroText" type="Vue.js" />
       <removed_mapping ext="php" approved="true" type="PHP" />
       <removed_mapping pattern=".php" approved="true" type="ActionScript" />
     </extensionMap>
