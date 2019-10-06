@@ -1,0 +1,20 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/bookshelf" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/express" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/passport" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/validator" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+  </component>
+</application>
