@@ -1,6 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="IDE and Plugin Updates" displayType="NONE" shouldLog="false" />
-    <notification groupId="Webpack" />
-  </component>
-</application>
