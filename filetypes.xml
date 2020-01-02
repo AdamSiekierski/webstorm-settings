@@ -1,7 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="router" type="HTTP Request" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <removed_mapping ext="php" approved="true" type="PHP" />
       <removed_mapping pattern=".php" approved="true" type="ActionScript" />
     </extensionMap>
