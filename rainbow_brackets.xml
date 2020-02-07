@@ -1,8 +1,10 @@
 <application>
   <component name="RainbowSettings">
     <option name="customNotifyShowed" value="true" />
+    <option name="doNOTRainbowifyTheFirstLevel" value="true" />
     <option name="enableRainbowAngleBrackets" value="false" />
     <option name="enableRainbowSquareBrackets" value="false" />
+    <option name="numberOfColors" value="3" />
     <option name="version" value="5.31" />
   </component>
 </application>
