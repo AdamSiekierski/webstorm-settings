@@ -3,6 +3,7 @@
     <option name="FONT_SIZE" value="14" />
     <option name="FONT_FAMILY" value="Dank Mono" />
     <option name="USE_LIGATURES" value="true" />
+    <option name="SECONDARY_FONT_FAMILY" value="Operator Mono Lig" />
   </component>
   <component name="EditorSettings">
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
