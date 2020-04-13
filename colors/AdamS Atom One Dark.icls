@@ -4,7 +4,7 @@
     <property name="created">2019-12-29T12:16:31</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.2.4.0.0</property>
-    <property name="modified">2020-04-11T11:26:31</property>
+    <property name="modified">2020-04-13T19:26:47</property>
     <property name="originalScheme">AdamS Atom One Dark</property>
   </metaInfo>
   <console-font>
@@ -63,7 +63,7 @@
     <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
     <option name="NOT_CHANGED" value="979fad" />
     <option name="QUESTION_HINT" value="282c34" />
-    <option name="RIGHT_MARGIN_COLOR" value="" />
+    <option name="RIGHT_MARGIN_COLOR" value="2f333d" />
     <option name="SELECTED_INDENT_GUIDE" value="57b6c2" />
     <option name="SELECTED_TEARLINE_COLOR" value="99b89d" />
     <option name="SELECTION_BACKGROUND" value="3e4451" />
@@ -84,6 +84,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_3" value="37474f" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="39adb5" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="f07178" />
+    <option name="VISUAL_INDENT_GUIDE" value="" />
     <option name="WHITESPACES" value="2e3c43" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="59626f" />
   </colors>
