@@ -7,11 +7,13 @@
     <option name="applicationIconLargeTextCustom" value="" />
     <option name="applicationIconSmallTextCustom" value="" />
     <option name="applicationTime" value="APPLICATION_TOTAL" />
+    <option name="projectDetails" value="APPLICATION_VERSION" />
     <option name="projectDetailsCustom" value="" />
     <option name="projectState" value="PROJECT_VCS_BRANCH" />
     <option name="projectStateCustom" value="" />
     <option name="projectIconLargeTextCustom" value="" />
     <option name="projectIconSmallTextCustom" value="" />
+    <option name="projectTime" value="APPLICATION_TOTAL" />
     <option name="fileDetails" value="PROJECT_NAME" />
     <option name="fileDetailsCustom" value="" />
     <option name="fileStateCustom" value="" />
